@@ -1,0 +1,2 @@
+model_checkpoint_path: "audio_beat_and_down_beat_estimation_Ballroom.ckpt"
+all_model_checkpoint_paths: "audio_beat_and_down_beat_estimation_Ballroom.ckpt"
