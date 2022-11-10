@@ -6,7 +6,6 @@ import time
 import random
 
 from common_layers import *
-from data_loaders import *
 
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
